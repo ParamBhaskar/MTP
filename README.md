@@ -141,6 +141,8 @@ In second terminal,
 ```
 Similarly, you can open as many terminals as you want to run multiple socket pairs simultaneously.
 
+![image](https://github.com/ParamBhaskar/MTP/assets/108367037/d298a592-e43a-4d6e-a47e-ed2896beb164)
+
 ##  Contributing
 
 Contributions are welcome! Here are several ways you can contribute:
